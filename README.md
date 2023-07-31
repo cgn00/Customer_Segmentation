@@ -71,12 +71,8 @@ RFM analysis is a customer segmentation technique that uses three variables to s
 
 ## Clustering
 
-Clustering is a common technique used in data analysis to group similar data points together. In this project, we used three clustering algorithms: KMeans, OPTICS, and DBSCAN to cluster customers based on their RFM scores. We also used dimensionality reduction techniques such as PCA to reduce the number of variables used in clustering. The resulting clusters can be useful for identifying different types of customers and developing targeted marketing strategies.
+Clustering is a common technique used in data analysis to group similar data points together. In this project, we used three clustering algorithms: KMeans, OPTICS, and DBSCAN to cluster customers based on their RFM scores. The resulting clusters can be useful for identifying different types of customers and developing targeted marketing strategies.
 
 ## Conclusion
 
 Exploratory Data Analysis is a crucial step in any data analysis project. It involves data cleaning, data visualization, and data modeling techniques to gain insights and develop hypotheses about the data. In this project, we used various Python libraries and techniques to perform EDA on a sales dataset and used RFM analysis and clustering to segment customers based on their buying behavior. The resulting insights can be useful for developing targeted marketing strategies and improving customer engagement.
-
-## Conclusion
-
-This project provides a starting point for analyzing sales data. With the code provided, you can perform EDA and gain insights into the data to make informed decisions. By using the appropriate Python packages, you can manipulate and visualize the data, and apply machine learning techniques such as clustering to gain further insights.
