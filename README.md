@@ -45,10 +45,6 @@ The sales data is loaded from a CSV file using the pandas `read_csv()` function.
 
 This section covers data cleaning and filtering the data by shipped status. Data cleaning involves identifying and correcting errors, inconsistencies, and missing values in the dataset to ensure that it is accurate, complete, and usable for analysis. Filtering by shipped status is useful to analyze only the orders that have been shipped, in order to do an accurate RFM analysis later.
 
-## Exploratory Data Analysis (EDA)
-
-Exploratory Data Analysis (EDA) is an important step in any data analysis project. It involves the initial exploration and analysis of the data to identify patterns, trends, and relationships. EDA is often used to gain insights and to develop hypotheses about the data before applying more advanced statistical methods.
-
 ### Data Cleaning
 
 Data cleaning is a crucial step in the exploratory data analysis process. It involves identifying and correcting errors, inconsistencies, and missing values in a dataset to ensure that it is accurate, complete, and usable for analysis. Data cleaning can involve tasks such as removing duplicates, filling missing values, correcting typos and formatting errors, and handling outliers. The goal of data cleaning is to ensure that the data is consistent and reliable, which is essential for making accurate inferences and drawing meaningful insights. By performing data cleaning, analysts can ensure that their analysis is based on high-quality data and that their conclusions are sound.
